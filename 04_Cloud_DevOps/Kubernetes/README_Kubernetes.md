@@ -24,4 +24,13 @@
 
 
 ## Install the `kubectl`:
-- `minikube` is the kubernetes provider. `kubectl` is a tool to connect with Kubernetes clusters. Sends the requests to API servers and get the response from server.  
+- `minikube` is the kubernetes provider. `kubectl` is a tool to connect with Kubernetes clusters. Sends the requests to API servers and get the response from server.
+- `brew install kubectl`
+
+- `kubectl get nodes`:
+- To get the all the node details 
+- ![img_1.png](img_1.png)
+
+- `kubectl get pods` : to get the pods available in given namespace
+- - `kubectl get pods -A` : to get the pods available in all namespace
+- ![img_2.png](img_2.png)
