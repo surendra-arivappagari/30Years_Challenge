@@ -12,12 +12,16 @@
 ```
 
 
-## Install Kubernetes in local machine:
+## Install Kubernetes in local machine using `minikube`: 
 ### Using homebrew and minikube as a kubernetes distributor for local installation:
-- `homebrew install minikube`
+- `brew install minikube`
 - Before starting the minikube, start the docker engine(Desktop). Based on available space (cores memory) try providing the space. 
 - `minikube start --nodes 2`
 
 - Check the status of your kubernetes nodes using `status`:
 - `minikube status` will show below message. 
 - ![img.png](img.png)
+
+
+## Install the `kubectl`:
+- `minikube` is the kubernetes provider. `kubectl` is a tool to connect with Kubernetes clusters. Sends the requests to API servers and get the response from server.  
