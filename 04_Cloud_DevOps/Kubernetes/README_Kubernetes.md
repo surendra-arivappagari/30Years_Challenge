@@ -17,4 +17,7 @@
 - `homebrew install minikube`
 - Before starting the minikube, start the docker engine(Desktop). Based on available space (cores memory) try providing the space. 
 - `minikube start --nodes 2`
-- 
+
+- Check the status of your kubernetes nodes using `status`:
+- `minikube status` will show below message. 
+- ![img.png](img.png)
