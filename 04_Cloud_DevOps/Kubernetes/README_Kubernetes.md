@@ -20,7 +20,7 @@
 
 - Check the status of your kubernetes nodes using `status`:
 - `minikube status` will show below message. 
-- ![img.png](img.png)
+- ![img.png](Z_Udemy_Practice/img.png)
 
 
 ## Install the `kubectl`:
@@ -29,8 +29,8 @@
 
 - `kubectl get nodes`:
 - To get the all the node details 
-- ![img_1.png](img_1.png)
+- ![img_1.png](Z_Udemy_Practice/img_1.png)
 
 - `kubectl get pods` : to get the pods available in given namespace
 - - `kubectl get pods -A` : to get the pods available in all namespace
-- ![img_2.png](img_2.png)
+- ![img_2.png](Z_Udemy_Practice/img_2.png)
