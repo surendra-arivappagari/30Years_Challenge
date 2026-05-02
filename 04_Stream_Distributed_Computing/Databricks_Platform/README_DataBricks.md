@@ -46,6 +46,9 @@ The backbone of Databricks. I configure Spark clusters to handle distributed pro
 - **All-Purpose Clusters:** Used for interactive analysis and development in notebooks.
 - **Job Clusters:** Cost-efficient, short-lived clusters that run specific automated tasks.
 
+DataBricks-Compute Engine image:
+![Databricks_Compute.png](../../Z_Ruff_Images_Text_Links/Images/Databricks_Compute.png)
+
 ### 2. Workspace & Notebooks
 A unified interface where I organize code, libraries, and dashboards. Using **Databricks Repos**, I sync these notebooks directly with GitHub for professional version control.
 
