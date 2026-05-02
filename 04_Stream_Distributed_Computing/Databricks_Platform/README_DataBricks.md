@@ -71,6 +71,3 @@ A dedicated workspace for SQL-native analytics and a centralized metadata reposi
 * **Runtime:** 13.x+ (includes Apache Spark 3.4.x, Scala 2.12)
 * **Storage:** Databricks File System (DBFS) for local practice and simulated cloud storage.
 
-
-DataBricks-Compute Engine:
-![Databricks_Compute.png](../../Z_Ruff_Images_Text_Links/Images/Databricks_Compute.png)
